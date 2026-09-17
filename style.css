@@ -1,0 +1,32 @@
+body {
+  font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+  max-width: 640px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  line-height: 1.5;
+}
+
+nav a {
+  margin-right: 1rem;
+}
+
+footer {
+  margin-top: 3rem;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.game {
+  margin-bottom: 1.5rem;
+}
+
+.game h3 {
+  margin-bottom: 0.25rem;
+}
+
+.game img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0.5rem 0;
+}
