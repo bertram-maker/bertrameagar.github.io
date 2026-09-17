@@ -29,7 +29,7 @@ next to this folder (`../bertrameagar.com/`); the itch.io links came from
    git add .
    git commit -m "Raw rebuild of bertrameagar.com"
    git branch -M main
-   git remote add origin <your-repo-url>
+   git remote add origin https://github.com/haleagar/bertrameagar.github.io
    git push -u origin main
    ```
 3. In the repo's Settings → Pages, set the source to the `main` branch,
